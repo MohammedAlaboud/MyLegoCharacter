@@ -8,4 +8,4 @@ Below is a screenshot of the final model:
 
 Here are the videos of the character animations:
 https://www.dropbox.com/s/e19m009hcfsuc2e/LegoCharacterIdleVideo.mp4?dl=0
-https://www.dropbox.com/s/e19m009hcfsuc2e/LegoCharacterIdleVideo.mp4?dl=0
+https://www.dropbox.com/s/yy15cf8n87zdb5e/LegoCharacterRunVideo.mp4?dl=0
