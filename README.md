@@ -1,4 +1,8 @@
 # MyLegoCharacter
 Modelled, texture painted, rigged, and animated my own Lego Character in Blender.
 
-Though I had a small rigging issue which I discovered when animating my charcter. 
+A small issue was discovered when animating the charcter. A vertex on one of the wrists was being stretched when moving the character, and it is believed that it was due to how the character was rigged. 
+
+Below is a screenshot of the final model:
+![](image/scLegoCharacter.png)
+
